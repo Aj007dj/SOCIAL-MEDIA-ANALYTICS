@@ -1,2 +1,2 @@
 # SOCIAL-MEDIA-ANALYTICS
-Its is capstone project on MBA SEM 4, based on Social media Tourism
+Its is capstone project of MBA SEM 4, based on Social media Tourism
